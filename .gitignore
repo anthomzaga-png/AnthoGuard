@@ -47,3 +47,6 @@ coverage/
 # Local databases
 *.sqlite
 *.sqlite3
+
+# Local configuration
+config/
